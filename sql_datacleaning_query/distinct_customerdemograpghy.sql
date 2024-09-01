@@ -1,0 +1,2 @@
+SELECT DISTINCT customer_demographics
+FROM beauty_supply_chain;
