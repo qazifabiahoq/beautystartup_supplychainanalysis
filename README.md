@@ -53,3 +53,11 @@ For Suppliers: Identifies potential areas for improvement in lead times and defe
 The analysis is contained in the R_Analysis directory.
 All visual outputs and figures are located in the Pic_Output folder.
 The R Markdown file used for the analysis is presentation.Rmd.
+
+## How to View the Presentation
+1. Clone the repository: git clone https://github.com/qazifabiahoq/beautystartup_supplychainanalysis.git
+2. Navigate to the folder R_Analysis to locate the presentation.Rmd file.
+3. Open presentation.Rmd in RStudio.
+4. Ensure the Pic_Output folder with all the images is present in the repository root, as the presentation relies on these images for visual content.
+5. Render the document by clicking the "Knit" button in RStudio to generate the HTML output.
+6. If any images are missing, double-check that the Pic_Output folder is correctly placed relative to the presentation.Rmd file.
